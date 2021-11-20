@@ -14,3 +14,6 @@
 *.ilg
 *.fdb_latexmk
 *.ind
+*.snm
+*.bcf
+*.nav
