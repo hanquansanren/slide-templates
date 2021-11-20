@@ -1,0 +1,16 @@
+*.aux
+*.bbl
+*.blg
+*.glo
+*.idx
+*.lof
+*.log
+*.bak
+*.lot
+*.gz
+*.out
+*.toc
+*.fls
+*.ilg
+*.fdb_latexmk
+*.ind
